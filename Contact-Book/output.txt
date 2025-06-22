@@ -1,0 +1,75 @@
+
+Contact Book Menu:
+1. Add Contact
+2. View Contact
+3. Edit Contact
+4. Delete Contact
+5. List All Contacts
+6. Exit
+Enter input: 1
+Enter contact name: Alice 
+Enter phone number: 123-456-7890
+Enter email address: alice@contact.com
+Enter address: 75 3rd Ave, New York, NY 10003, USA
+Contact added successfully!
+
+Contact Book Menu:
+1. Add Contact
+2. View Contact
+3. Edit Contact
+4. Delete Contact
+5. List All Contacts
+6. Exit
+Enter input: 2
+Enter contact name to view: Alice
+Name: Alice
+Phone: 123-456-7890
+Email: alice@contact.com
+Address: 75 3rd Ave, New York, NY 10003, USA
+
+Contact Book Menu:
+1. Add Contact
+2. View Contact
+3. Edit Contact
+4. Delete Contact
+5. List All Contacts
+6. Exit
+Enter input: 3
+Enter contact name to edit: Alice
+Enter new phone number: 987-654-321
+Enter new email address: alice1@contact.com
+Enter new address: 55 Clark St, Brooklyn, NY 11201, USA
+Contact updated successfully!
+
+Contact Book Menu:
+1. Add Contact
+2. View Contact
+3. Edit Contact
+4. Delete Contact
+5. List All Contacts
+6. Exit
+Enter input: 5
+Name: Alice
+Phone: 987-654-321
+Email: alice1@contact.com
+Address: 55 Clark St, Brooklyn, NY 11201, USA
+
+Contact Book Menu:
+1. Add Contact
+2. View Contact
+3. Edit Contact
+4. Delete Contact
+5. List All Contacts
+6. Exit
+Enter input: 4
+Enter contact name to delete: Alice
+Contact deleted successfully!
+
+Contact Book Menu:
+1. Add Contact
+2. View Contact
+3. Edit Contact
+4. Delete Contact
+5. List All Contacts
+6. Exit
+Enter input: 6
